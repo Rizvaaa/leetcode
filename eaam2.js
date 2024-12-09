@@ -1,0 +1,3 @@
+function pal(arr){
+    arr.
+}
