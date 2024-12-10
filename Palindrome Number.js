@@ -1,3 +1,7 @@
+/**
+ * @param {number} x
+ * @return {boolean}
+ */
 var isPalindrome = function(x) {
     let arr=x.toString().split('').map(Number);
     let rev=arr.reverse().join("");
